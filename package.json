@@ -1,0 +1,20 @@
+{
+  "name": "athenaquerybuilder",
+  "version": "1.0.0",
+  "description": "없어서 나 혼자 쓰려 만드는 쿼리빌더",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/changwoolab/athenaQueryBuilder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/changwoolab/athenaQueryBuilder/issues"
+  },
+  "homepage": "https://github.com/changwoolab/athenaQueryBuilder#readme"
+}
